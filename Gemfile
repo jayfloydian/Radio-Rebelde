@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
-
+#for users and authentication we will use devise
+gem 'devise'
 # for twitter ui components including navbar
 gem 'bootstrap-sass', '~> 3.3.6'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
